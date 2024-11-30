@@ -43,7 +43,7 @@ div {
 .h2 {
   color: white;
   padding: 1.5rem;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   border-radius: 10px;
   background-color: darkslategrey;
   text-shadow: 2px 2px red, 2px 2px 3px yellow;
@@ -96,7 +96,7 @@ div {
   }
 
   .h2 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
   .btn {
     font-weight: bold;
