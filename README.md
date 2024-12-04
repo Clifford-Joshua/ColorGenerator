@@ -1,29 +1,31 @@
 ### Color Generator
 
-## Hex Color Generator
+#### Hex Color Generator
 
-## Random Color Generator
+#### Random Color Generator
 
-## Color
+#### Normal Color Generator
 
-### Languages Used
+#### Languages Used
 
-## HTML
+ HTML
 
-## CSS
+ CSS
 
-## JAVASCRIPT
+ JAVASCRIPT
 
-### USAGE
+#### USAGE
 
-## GENERATE HEX COLORS
+ GENERATE HEX COLORS
 
-## GET YOUR NORMAL COLORS
+ GET YOUR NORMAL COLORS
 
-## TO GENERATE DIFFERENT COLORS
+ TO GENERATE DIFFERENT COLORS
 
 ### TRYING OUT COLOR GENERATOR GOT THE IDEA FROM COOLORS SITE
 
 ### VISIT COOLORS : https://coolors.co/
 
-FEEL FREE TO EXPLORE MY WORK AND TRY IT OUT.......................
+FEEL FREE TO EXPLORE MY WORK AND TRY IT OUT BY CLICKING ON THE LINK BELLOW
+#### Color Generator : https://funcolorgenerator.netlify.app
+
